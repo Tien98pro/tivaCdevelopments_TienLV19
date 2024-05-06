@@ -1,0 +1,1 @@
+"./simple_rx.obj" "./tm4c1237d5pz_startup_ccs.obj" "./uartstdio.obj" "../tm4c1237d5pz.cmd" -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" 
